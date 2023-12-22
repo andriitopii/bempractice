@@ -1,0 +1,27 @@
+.main__product-info {
+}
+
+.main__product-title {
+  display: block;
+  border-bottom: 1px solid #a8a8a8;
+  margin: 0;
+  font-family: Cabin;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 28px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+
+.main__product-author{
+    margin: 0;
+  color:  #8e8e8e;
+  font-family: Cabin;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px; /* 150% */
+}

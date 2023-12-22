@@ -1,0 +1,13 @@
+.header__category-menu {
+  display: flex;
+  flex-direction: row;
+  column-gap: 40px;
+}
+.header__category-menu-item {
+  color: #000;
+  font-family: Cabin;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px; /* 150% */
+}

@@ -1,0 +1,16 @@
+.btn-chat{
+    position: fixed;
+    display: block;
+    width: 64px;
+    height: 64px;
+    bottom: 28px;
+    right: 28px;
+    border-radius: 32px;
+    background-color: #10bbd5;
+    background-image: url("../images/chat_icon.png");
+    border: none;
+    background-repeat: no-repeat;
+    background-size: 80%;
+    background-position: center;
+    cursor: pointer;
+}

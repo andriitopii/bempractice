@@ -1,0 +1,66 @@
+
+/*Header title*/
+
+
+.btn-chat {
+  position: fixed;
+  display: block;
+  width: 64px;
+  height: 64px;
+  bottom: 28px;
+  right: 28px;
+  border-radius: 32px;
+  background-color: #10bbd5;
+  background-image: url("../images/chat_icon.png");
+  border: none;
+  background-repeat: no-repeat;
+  background-size: 80%;
+  background-position: center;
+  cursor: pointer;
+}
+
+/*Product list*/
+
+
+
+
+
+.line-decoration {
+  height: 1px;
+  background: #a8a8a8;
+  border: none;
+  margin: 0;
+}
+
+
+
+
+
+
+.btn-product-card {
+  padding: 8px 24px;
+  border: none;
+  border-radius: 4px;
+  background: #4c394e;
+  color: #f8fdfe;
+  text-align: center;
+  font-family: Cabin;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  cursor: pointer;
+}
+.btn-end-up {
+  background: #4d762d;
+}
+/*Footer*/
+
+
+.copyright {
+  color: #f8fdfe;
+  font-family: Cabin;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+}

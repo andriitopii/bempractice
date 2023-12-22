@@ -1,0 +1,23 @@
+// * Це головний sass/scss файл проекту
+// * імпортуйте сюди всі інші ваші файли sass/scss
+@import "./components/header/header.scss";
+@import "./base/reset";
+@import "./base/typography.scss";
+@import "./layout/container.scss";
+@import "./components/header/header__category-title.scss";
+@import "./components/header/header__logo.scss";
+@import "./abstracts/fontsvar.scss";
+@import "./components/header/header__bascket.scss";
+@import "./components/header/header__bascket-btn.scss";
+@import "./components/header/header__category-menu.scss";
+@import "./components/main/main__header-title.scss";
+@import "./components/main/main.scss";
+@import "./components/main/main__product-list.scss";
+@import "./components/main/main__product-card.scss";
+@import "./components/main/main__product-img-badge.scss";
+@import "./components/main/main__badge.scss";
+@import "./components/main/main__product-info.scss";
+@import "./components/main/main__product-price-cont.scss";
+@import "./components/main/main__product-btn.scss";
+@import "./components/footer/footer.scss";
+@import "./components/chat/btn__chat.scss"

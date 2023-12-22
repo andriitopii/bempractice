@@ -1,0 +1,25 @@
+.main__badge {
+  padding: 4px 8px;
+  border-radius: 4px;
+  color: #f8fdfe;
+  font-family: Cabin;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  &--new{
+    background: #af39e7;
+  }
+
+  &--hit{
+    background-color: #4200ff;
+  }
+
+  &--sale{
+    background: #ea33c0;
+  }
+
+  &--none{
+    display: none;
+  }
+}
+
